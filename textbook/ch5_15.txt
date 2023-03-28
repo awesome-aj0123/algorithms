@@ -1,0 +1,10 @@
+s, a, r
+a, b, r
+b, t, r
+t, d, r
+d, c, r
+c, s, r
+d, s, b
+c, a, b
+t, a, b
+b, d, b
